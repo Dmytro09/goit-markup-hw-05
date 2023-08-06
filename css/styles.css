@@ -486,6 +486,7 @@ a.media-list:focus {
 
 .footer-media-class {
         box-sizing: border-box;
+        margin-right: 80px;
 }
 
 .footer-media-title {
