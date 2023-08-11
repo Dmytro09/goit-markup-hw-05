@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6, p, ul {
         padding: 24px 0;
         display: block;
         position: relative;
-        color: #404bbf
+        color: #2E2F42;
         
 }
 
@@ -279,7 +279,6 @@ position: absolute;
         letter-spacing: 0.02em;
         color: var(--secondary-color);
         line-height: 1.5;
-        margin-bottom: 8px;
 
 }
 
